@@ -1,0 +1,29 @@
+Subject: Requirements Engineering Survey
+
+Dear XXXX,
+
+I would like to invite you to participate in our requirements engineering (RE) survey.
+This survey serves research to identify industrial trends with focus on personal expectations and experiences as well as challenges in requirements engineering and project management. 
+
+Most important facts:
+* This survey is conducted worldwide in 14 countries in parallel.
+* We pose maximally 35 questions, and you can advance in the questionnaire without answering every single one of them (although we hope for complete answers).
+* There are 4 question categories: 
+	- General information on you and your company for statistics, 
+	- Status Quo in RE
+	- Status Quo in continuous improvement in RE
+	- Current challenges you experience in RE and how these problems manifest themselves in the process
+* The survey is anonymous, because we are especially interested in your personal experiences and critical opinions.
+* At the end of the survey, we will ask for your email address in case you would like the final report on the results. Your email address will not be associated with your answers.
+* The survey is closed and password-protected because we target specific people and representatives of companies or units in companies. If you would like to forward this invitation to more people who you would think are good subjects for this study, we would ask you to please let us know the number of people you forwarded it to, so we can track the actual number of invitations sent out.
+
+More Information on the survey and its background are available at http://re-survey.org.
+
+Link: XXXXX
+Password: XXXXX
+
+I would like to thank you very much for your consideration and support!
+
+Kind regards,
+XXXXX
+
