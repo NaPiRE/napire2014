@@ -16,8 +16,6 @@ This work is licensed under the GNU General Public License, version 3. Parts of 
 
 ## NaPiRE data set
 
-## NaPiRE data set
-
 The NaPiRE initiative (Naming the Pain in Requirements Engineering) is a community endeavour run by a multitude of researchers world-wide. When referring to the NaPiRE initiative, please always refer to the official initiative's website under [http://napire.org](http://napire.org). When referring to the data set, please respect the authors' attribution as described in the respective folders; These authors can be referred to as via "Daniel Mendez, Stefan Wagner, Marcos Kalinowski, Michael Felderer et al."
 
 When citing the NaPiRE initiative, please therefore use:
